@@ -1,6 +1,8 @@
-package December;
+package December.ex_08_12_2024;
 
-//public
+public class ex_08_12_2024 {
+}
+
 class BooleanExample {
 
     public static void main(String[] args) {
