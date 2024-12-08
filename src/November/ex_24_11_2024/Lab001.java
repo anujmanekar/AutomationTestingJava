@@ -9,6 +9,8 @@ public class Lab001
         System.out.println("New");
         System.out.println("Program");
         System.out.println("Test");
+
+
     }
 
 
