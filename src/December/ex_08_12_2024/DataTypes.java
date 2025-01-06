@@ -1,18 +1,16 @@
-package December.ex_08_12_2024;
-
-public class DataTypes {
+class FizzBuzz {
     public static void main(String[] args) {
-        int $ = 56;
-        byte b=8;
-        short s= 12;
-
-
-        System.out.println($);
-        System.out.println(b);
-
-        int Test = 546;
-        System.out.println(Test);
-        System.out.println("Test");
-        System.out.println(s);
+        for (int i = 1; i <= 100; i++) {
+            if (i % 3 == 0 && i % 5 == 0) {
+                System.out.println("FizzBuzz");
+            } else if (i % 3 == 0) {
+                System.out.println("Fizz");
+            } else if (i % 5 == 0) {
+                System.out.println("Buzz");
+            } else {
+                System.out.println(i);
+            }
+        }
     }
 }
+

@@ -11,7 +11,6 @@ public class ex_07_12_2024 {
         System.out.println("IN");
         System.out.println("Automationest");
 
-        //Tjos s
         System.out.println(2+2);
 
 
