@@ -7,7 +7,7 @@ public class ex_06_01_2025 {
         System.out.println("Testsettesttesttest");
         System.out.println("Testsettesttesttest");
         System.out.println("test");
-        System.out.println("Testsettesttesttest");
+        System.out.print("Testsettesttesttest");
         System.out.println("Testsettesttesttest");
         System.out.println("Testsettesttesttest");
         System.out.println("Testsettesttesttest");
