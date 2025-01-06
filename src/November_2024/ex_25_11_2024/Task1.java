@@ -1,4 +1,4 @@
-package November.ex_25_11_2024;
+package November_2024.ex_25_11_2024;
 
 public class Task1 {
 

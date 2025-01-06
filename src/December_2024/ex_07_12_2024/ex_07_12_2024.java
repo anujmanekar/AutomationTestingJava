@@ -1,4 +1,4 @@
-package December.ex_07_12_2024;
+package December_2024.ex_07_12_2024;
 
 public class ex_07_12_2024 {
 

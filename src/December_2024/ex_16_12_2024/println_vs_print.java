@@ -1,4 +1,4 @@
-package December.ex_16_12_2024;
+package December_2024.ex_16_12_2024;
 
 public class println_vs_print {
 
