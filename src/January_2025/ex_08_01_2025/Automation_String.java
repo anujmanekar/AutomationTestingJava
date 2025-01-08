@@ -1,4 +1,4 @@
-package January_2025.ex_07_01_2025;
+package January_2025.ex_08_01_2025;
 
 public class Automation_String {
 
