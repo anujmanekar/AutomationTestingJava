@@ -1,12 +1,14 @@
-package January_2025.ex_07_01_2025;
+package January_2025.ex_08_01_2025;
 
-public class name_print {
+public class Calculator {
     public static void main(String[] args) {
-        int a = 34;
-        int b = 10;
+
+        int a= 10;
+        int b= 20;
         System.out.println(a+b);
         System.out.println(a-b);
         System.out.println(a*b);
-        System.out.println(a/b);
+        System.out.println(a%b);
+
     }
 }
