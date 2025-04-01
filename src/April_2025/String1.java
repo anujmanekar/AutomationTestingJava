@@ -2,12 +2,17 @@ package April_2025;
 
 public class String1 {
     public static void main(String1[] args) {
-        String name = "Anuj";
-        String Surname = "Manekar";
-        String Middle = "Rajendra";
-        System.out.println("Name "+ name);
-        System.out.println("Middle "+ Middle);
-        System.out.println("Surname "+ Surname);
+
+
+        char grade = 'A';
+        System.out.println(grade);
+
+        char system = 'B';
+        System.out.println(system);
+
+        char newline = '\n';
+        System.out.println(newline);
+
 
 
 
