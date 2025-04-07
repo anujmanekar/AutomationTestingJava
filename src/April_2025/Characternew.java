@@ -8,8 +8,8 @@ public class Characternew {
         char b = '\n'; // This is a newline character, it won’t print visibly
         System.out.println(b);
 
-        char a = 'B';
-        System.out.println(a);
+        char z = 'B';
+        System.out.println(z);
 
     }
 }
